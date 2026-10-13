@@ -1,6 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import { ArrowDownRight, ArrowUpRight, Menu, Sparkles, ShieldCheck, Droplets, CarFront, Instagram, MessageCircle } from 'lucide-react';
+import { ArrowDownRight, ArrowUpRight, Menu, Sparkles, ShieldCheck, Droplets, CarFront, MessageCircle } from 'lucide-react';
 import './styles.css';
 
 const WHATSAPP_NUMBER = ''; // Preencha com DDI + DDD + número, somente dígitos. Ex.: 5535999999999
